@@ -1,0 +1,16 @@
+
+.row {
+  margin-top: 25px;
+}
+h1, h2, h3 {
+  padding: 10px;
+}
+h2 {
+  color: #ff0000;
+}
+.badge {
+  padding: 15px;
+  font-size: 45px;
+  font-weight: bold;
+  color: #ffffff;
+}
